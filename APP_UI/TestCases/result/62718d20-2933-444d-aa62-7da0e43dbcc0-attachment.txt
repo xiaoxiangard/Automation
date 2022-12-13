@@ -1,0 +1,15 @@
+[32mINFO    [0m root:app.py:20 driver为:None
+[32mINFO    [0m root:test_contact.py:26 添加联系人姓名: 万淑兰, 添加联系人手机号码: 13498467498 
+[32mINFO    [0m root:base_page.py:22 点击操作:
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[@text='通讯录']
+[32mINFO    [0m root:base_page.py:60 滑动查找后点击操作:
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[@text='添加成员']
+[32mINFO    [0m root:base_page.py:22 点击操作:
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[@text='手动输入添加']
+[32mINFO    [0m root:base_page.py:27 输入操作,输入内容为: 万淑兰
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[contains(@text,'姓名')]/../android.widget.EditText
+[32mINFO    [0m root:base_page.py:27 输入操作,输入内容为: 13498467498
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[contains(@text,'手机')]/..//android.widget.EditText
+[32mINFO    [0m root:base_page.py:22 点击操作:
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[@text='保存']
+[32mINFO    [0m root:base_page.py:17 定位符:xpath, 定位表达式: //*[@class='android.widget.Toast']
